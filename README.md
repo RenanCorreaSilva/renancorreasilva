@@ -21,7 +21,7 @@
   </br>
   <div> 
   <a href = "mailto:rehcorreaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-  <a href="https://www.linkedin.com/in/renancorreadasilva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/renancorreadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ![Snake animation](https://github.com/renancorreasilva/renancorreasilva/blob/output/github-contribution-grid-snake.svg)
   

@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on Front-End Develepor
 - 📫 How to reach me: rehcorreaa@gmail.com
 - 📚 Beginner student developer and Computer Engineering
+- 🏠 Live in Rio de Janeiro
+- ⏳ Born in 1999
 <div>
   <a href="https://github.com/RenanCorreaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renancorreasilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>

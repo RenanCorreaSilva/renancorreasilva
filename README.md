@@ -9,10 +9,10 @@
 - 🏠 Live in Rio de Janeiro
 - ⏳ Born in 1999
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/RenanCorreaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCorreaSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCorreaSilva&layout=compact&langs_count=7&theme=github_dark"/> 
+  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCorreaSilva&layout=compact&langs_count=7&theme=github_dark"/> 
 </div>  
   
   <div style="display: inline_block"><br>

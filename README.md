@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😊I'm Renan
+😊I'm Renan.
 
 - 🌱 I’m currently learning Front-End(HTML, CSS, JAVASCRIPT)
 - 👯 I’m looking to collaborate on Front-End Develepor

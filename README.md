@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/RenanCorreaSilva">
   <img height="150em" width="42%"  src="https://github-readme-stats.vercel.app/api?username=RenanCorreaSilva&show_icons=true&theme=github_dark"/>
-  <img height="150em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCorreaSilva&layout=compact&theme=github_dark"/> 
+  <img height="150em" width="50%"  src=""/> 
 </div>  
   
   <div style="display: inline_block"><br>

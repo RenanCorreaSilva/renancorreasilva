@@ -10,11 +10,11 @@
 - ⏳ Born in 1999
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" https://github-readme-stats.vercel.app/apiRenanCorreaSilva=anuraghazra&show_icons=true&theme=radical />
+<a href="https://github.com/RenanCorreaSilva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenanCorreaSilva&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/RenanCorreaSilva=anuraghazra&repo=convoychat" />
+<a href="https://github.com/RenanCorreaSilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenanCorreaSilva&repo=convoychat" />
 </a>
 
   <div> 

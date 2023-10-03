@@ -15,12 +15,7 @@
   <img height="150em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCorreaSilva&layout=compact&theme=github_dark"/> 
 </div>  
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Re-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Re-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RenanCorreaSilva=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </br>
   <div> 
   <a href = "mailto:rehcorreaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>

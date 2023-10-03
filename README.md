@@ -9,9 +9,9 @@
 - 🏠 Live in Rio de Janeiro
 - ⏳ Born in 1999
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RenanCorreaSilva=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRenanCorreaSilva=anuraghazra&show_icons=true&theme=radical)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RenanCorreaSilva=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/RenanCorreaSilva=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </br>
   <div> 
   <a href = "mailto:rehcorreaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>

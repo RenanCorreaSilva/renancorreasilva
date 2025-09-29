@@ -2,8 +2,6 @@
 
 😊I'm Renan.
 
-- 🌱 I’m currently learning Front-End(HTML, CSS, JAVASCRIPT)
-- 👯 I’m looking to collaborate on Front-End Develepor
 - 📫 How to reach me: rehcorreaa@gmail.com
 - 📚 Beginner student developer and Computer Engineering
 - 🏠 Live in Rio de Janeiro
